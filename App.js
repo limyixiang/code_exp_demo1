@@ -7,7 +7,7 @@ export default function App() {
       {/* Help me style the text to be large and red and centered */}
       <Text style={{ fontSize: 24, color: "red", textAlign: "center" }}>Does this work!</Text>
       <StatusBar style="auto" />
-    </View>
+    </View>ijfroeigjirejgi
   );
 }
 
